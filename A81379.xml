@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devil in his dumps: or A sad complaint of malignant spirits, at the settling of peace and truth in a late conventicle held neer the Tovver for the better influence of Iohn Lilburns counsels. Also a full and true relation of the sectaries desperate conclusions concerning their last and present design for the utter ruine of church and state.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81379</idno>
+            <idno type="STC">Wing D1218</idno>
+            <idno type="STC">Thomason E400_38</idno>
+            <idno type="STC">ESTC R201768</idno>
+            <idno type="EEBO-CITATION">99862268</idno>
+            <idno type="PROQUEST">99862268</idno>
+            <idno type="VID">114421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114421)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devil in his dumps: or A sad complaint of malignant spirits, at the settling of peace and truth in a late conventicle held neer the Tovver for the better influence of Iohn Lilburns counsels. Also a full and true relation of the sectaries desperate conclusions concerning their last and present design for the utter ruine of church and state.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114421:1" rendition="simple:additions"/>
+            <p>THE Devil in his Dumps: Or a ſad COMPLAINT OF <hi>MALIGNANT SPIRITS,</hi> At the ſettling of PEACE and TRVTH In a late CONVENTICLE held neer the TOWER for the better influence of Iohn Lilburns Counſels<g ref="char:punc">▪</g>
+            </p>
+            <p>ALSO A full and true Relation of the Sectaries deſperate Concluſions concerning their laſt and preſent Deſign for the utter Ruine of Church and State.</p>
+            <p>
+               <add>Aug. 3<hi rend="sup">d</hi>
+               </add> 
+               <hi>London,</hi> Printed in the Year 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:114421:2"/>
+            <head>The Devil in his dumps, or a ſad complaint of Malignant ſpirits <hi>&amp;c.</hi>
+            </head>
+            <p>ALthough the Liberty of this age (wherin your <hi>Curranto's, Paſquils</hi> and <hi>lying Pamphlets</hi> ſwarm ſo abundantly) hath made all News (how ſerious and ſubſtantial ſoe<g ref="char:EOLhyphen"/>ver) liable to the jealous imputation of falſhood; yet I aſſure you, this preſent Relation, though preſented unto you in a borrowed form, yet for the ſubſtance or matter is as neer allied to <hi>truth,</hi> as <hi>light to the Sun.</hi>
+            </p>
+            <p>To hold you then in no further ſuſpence, know, that about the be<g ref="char:EOLhyphen"/>ginning of this preſent <hi>Summer,</hi> the Prince of darkneſs, called a gene<g ref="char:EOLhyphen"/>ral Aſſembly of all the infernal <hi>spirits,</hi> who with winged haſt atten<g ref="char:EOLhyphen"/>ded his ſummons, and being met and the grand <hi>Diabolo</hi> mounted on a throne of <hi>ſulphur,</hi> accompanied with his Cabinet Councel the <hi>ſeven deadly ſins,</hi> he began a very paſſionate complaint of the great decay and imminent ruine of his Kingdom, if ſome ſpeedy courſe were not taken to prevent it, for which he had called them together requiring their deviliſh advice. He recounted unto them, how they were altogether caſt out of heaven by the Almighty Power, for which common wrong although their confederate malice did oblige them all to ſeek revenge, yet himſelf had done it by a moſt ſubtile inſinuation, withdrawing the <hi>firſt</hi>
+               <note n="a" place="margin">Adam.</note> 
+               <hi>man</hi> that ever was from's obedience to his <hi>Maker.</hi> And this firſt atchievement (quoth he, my friends and fellow fiends) was by your aſſiſtance ſo happily proſecuted, that in a ſhort ſpace I got the ſoveraignty of all the world, and the whole race of mankind became my vaſſals.<note n="b" place="margin">Hearheu<g ref="char:EOLhyphen"/>iſm.</note> I had my Temples and Statues, my Oracles and Altars whereat I was ſought with that devotion, and all my heſts obſerved with that ſingular obedience, that I accounted my ſelf the god of this world, for whom they thought not themſelves and the children of their own bodies too dear a <hi>ſacrifice.</hi> In the pride of this univerſal Mo<g ref="char:EOLhyphen"/>narchy I ſate Lord Paramount without controul above 3000. years, but then you know a<note n="c" place="margin">Chriſt.</note> child was born, in whom was all the fulneſs of the eternal godhead, by whoſe divine power and wiſdom my Oracles were ſilenced, my Temples ſlighted, my Worſhip caſt out, my Altars caſt down, my Statues overthrown, and indeed my whole Kingdom ſo ſhattered, that all my Diabolical ſtratagems were little erough to keep together the pieces of a broken State. I muſt confeſs that the true Chriſtian State was nothing in compari<g ref="char:EOLhyphen"/>ſon
+<pb n="3" facs="tcp:114421:2"/>of my vaſt <hi>Empire,</hi> but yet the greatneſs of our pride and ma<g ref="char:EOLhyphen"/>lice that could not endure a rival in this inferior world, or that a creature ſo inferior to us ſhould enjoy thoſe bleſſed ſeats, from whence we our ſelves were with ſo much indignation detruded, after it had in vain attempted the perſon of this heavenly King<note n="d" place="margin">Perſecu<g ref="char:EOLhyphen"/>tion.</note> en<g ref="char:EOLhyphen"/>deavored with as ill ſucceſs the extirpation of his ſubjects and King<g ref="char:EOLhyphen"/>dom. Many were the ways and projects I uſed for the effecting hereof, but all in vain, till at laſt my devilliſh invention found out a device, being aſſiſted in it, I acknowledg, with all your helliſh coun<g ref="char:EOLhyphen"/>cels, that I thought all the power and policy under heaven could ne<g ref="char:EOLhyphen"/>ver fruſtrate: I broke my brains and crackt my miſchievous pate ſo about it, that I doubt I ſhal never do the like again. And indeed for a long time it anſwered my expectation to the full, for I built a gorgeous palace upon one of the ſeven hils<note n="e" place="margin">Rome.</note> in <hi>Italy,</hi> wherein I pla<g ref="char:EOLhyphen"/>ced my own dear ſiſter<note n="f" place="margin">The Pope.</note> 
+               <hi>Jezabel</hi> (a notable cunning whore) who acted her part ſo wel, with her<note n="g" place="margin">Popery.</note> paintings, dreſſings, counterfeit beauties and ſhews of holineſs, that in ſhort time ſhe was courted by all the Princes and Gallants of Chriſtendom, whom ſhe intoxi<g ref="char:EOLhyphen"/>cated ſo with a philtre that I gave her in a cup of gold compounded of all the damnable impoſtures, lyes, hereſies and blaſphemies, that my bottomleſs wit could poſſibly deviſe or afford, that by her means, in the very midſt of that temple that was built to the name and honor of God, my own image was ſet up and viſited from all parts of the earth. But theſe happy days had their end at laſt; all my impoſtures were diſcovered by one of my own<note n="h" place="margin">Luther.</note> votaries, and ſuch a<note n="i" place="margin">The Goſpel.</note> light of everlaſting truth ſet up, that I ſhal never be able to extinguiſh again; and yet my devilliſh pate did not quite fail me at this pinch, but at that very inſtant hatcht another brood of<note n="k" place="margin">
+                  <hi>Anabap<g ref="char:EOLhyphen"/>tiſts</hi> and other Se<g ref="char:EOLhyphen"/>ctaries.</note> Cro<g ref="char:EOLhyphen"/>codiles, who by their fained tears, counterfeit humilty and ſhews of holineſs, inticed thouſands to run after them, and by new lights or <hi>ignes fatui</hi> of their own giddy heads, lead them about ſuch vagaries, that they brought 'em at laſt to a groſſer darkneſs then that they eſcaped and to the midſt of that <hi>Babel</hi> that they thought they were clean got out of: What ſweet villanies they acted by vertue of their dreams &amp; revelations, as ſeditions, rebelions, murders, rapes, robberies, ſacriledge, crying down Miniſters, Churches, Sabbaths, Sacraments Scriptures, even Chriſt himſelf, till they had left in moſt places ſcarce any face of Religion, I cannot without much contentment remem<g ref="char:EOLhyphen"/>ber. In moſt places they found a ſtrong oppoſition, but eſpecially in England, by means of 26.<note n="l" place="margin">Biſhops.</note> 
+               <hi>Elders</hi> that then governed there, but that
+<pb n="4" facs="tcp:114421:3"/>was not much to my loſs, for indeed as the game then went, it was all one to me who won. But now the caſe is <hi>altered there,</hi> my ſun is quire ſet, and now I am like to end my days in everlaſting ſorrow; for in that <hi>poor</hi> deſpiſed <hi>Country there is a Parliament</hi> called that wil give Laws, I doubt, to all the <hi>world,</hi> they <hi>are</hi> to <hi>ſtrongly</hi> aſsiſted with counſel and <hi>ſtrength;</hi> and Aſſembly of Divines and a potent City, that—he had <hi>ſurely</hi> gone on but his <hi>troubled</hi> thoughts knew not which ways to <hi>render</hi> themſelves, and ſo his ſpeech failing, he began to ſwel<note n="l" place="margin">With cuvy</note> as though he would have <hi>burſt.</hi> The damned <hi>crew</hi> then and there <hi>preſent,</hi> ſeeing <hi>their ſoveraign</hi> ſo diſconſolate, be<g ref="char:EOLhyphen"/>gan to <hi>cheer</hi> him up with <hi>comfortable ſpeeches,</hi> and the ſeven dead<g ref="char:EOLhyphen"/>ly ſins <hi>ſupported</hi> him, or elſe he had ſunk down in a fwoon.</p>
+            <p>
+               <hi>Dear ſoveraign</hi> (quoth they) why <hi>are</hi> you troubled ſo at a trifling <hi>matter?</hi> What if that pedling Kingdom were quite loſt, have you not ſtill a world of vaſt Signiories beſides? You have <hi>more reaſon to rejoyce</hi> at that you have left, then <hi>grieve</hi> at a little that is fort; and yet it is not loſt neither.</p>
+            <p>
+               <hi>For</hi> if you pleaſe to take a view of that Kingdom, or if that be too much <hi>labor,</hi> of <hi>their chief</hi>
+               <note n="m" place="margin">London.</note> 
+               <hi>City,</hi> (and by that you may judg of the <hi>reſt</hi>) you ſhal find (we ſpeak within compaſs) <hi>three parts of four are yours ſtil.</hi> At that <hi>word</hi> the envious man began to ſmile and look up a little. If you will but conſider (quoth they) their beaſt<g ref="char:EOLhyphen"/>ly drunkenneſs, their horrible ſwearing, whoring, lying, couzening, cheating, envy, malice, ſlandering, open and ſecret murder, cove<g ref="char:EOLhyphen"/>touſneſs, oppreſſion; how devoutly they worſhip God upon their elbows and out-face him in his own houſ, with their pride, painting, perfuming, curling. How they faſt to ſave a dinner, and humble themſelves upon their cuſhions, in tiſſue, ſilk, ſatin, and ſtrange apparel, beauty ſpots, naked breaſts, and breeches about their heels, as if they were offering ſome ſacrifice to <hi>Venus;</hi> beſides their un<g ref="char:EOLhyphen"/>ſpeakable epicuriſm, gluttony, riot, and all exceſs. If you did but know all your ſecret friends and ſee all your profeſt ſervants that wear your Livery in their locks and badg in their faces: Do but mark how our ſchollers out-do us that taught them, and rec<g ref="char:EOLhyphen"/>kon what millions we poor ſeven have multiplied unto, and then you wil ſay we have done our parts, and not loſt but gained you a Kingdom. And of thoſe that ſcape our claws, we beleeve that He<g ref="char:EOLhyphen"/>reſie and Hypocriſie can give you a reaſonable account. The grand <hi>Diabolo</hi> gave them all thanks for their faithful ſervices, but heard
+<pb n="5" facs="tcp:114421:3"/>their diſcourſe with ſmal contentment, for ſtil (he told them) they miſt the mark he ſhot at. For quoth he, if this<note n="*" place="margin">Par<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ment Aſſem<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </note> Triumvirate hold together, what wil become of all us? No, No, I know too wel, the commanding power of that divine word, they are now ſetting up, what an alteration it makes in mens minds; If that deſign go forward, you ſhal quickly find a general revolt of mens affections from you, and then what wil become of all you, when every man ſhal become a Conſtable to apprehend, a Judg to condemn you, and his own conſcience, a <hi>tribunal to arraign you at?</hi> No, No, if this go <hi>forward,</hi> we may bid farewel to theſe upper regions, and confine our ſelves to the Land of darkneſs eternally. For beſides the loſs of that pretty place, which perhaps I might brook with ſome degree of forc't patience, it will be ſuch a preſident for all the world to follow, that I am at my wits end to think of it? No, No, if ever we hope for happy days again, we muſt defeat the purpoſes of this Triumvirate: and that by <hi>Stix</hi> I know not how to do, they go on with ſuch unanimity and undaunted reſolution. Divide them, and ſo I ſhal maſter them, and now I think on't I have a fit inſtrument for that purpoſe; and that is my coſen <hi>Ignatius, Provincial</hi> of the<note n="n" place="margin">Jeſ<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </note> order of the <hi>Spaniſh</hi>
+               <note n="o" place="margin">Loyo<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </note> rogue? I think you all know him; when they heard him but named, there was a great ſhout, as if their dying hopes were in him revived again, that he ſhould be ſent for: Indeed quoth <hi>Diabolo,</hi> he is the only ſtaff of my old age, and ſtay of my tottering ſtate; and in brief, ſuch diſpatches were made, that the <hi>Jeſuite</hi> was with them that night. To paſs by the entertainment, being ſate at his right hand, the father of lies communicated to him <hi>their former conſulta<g ref="char:EOLhyphen"/>tions,</hi> in a word deſiring his advice. The <hi>Frier reployed, a three<g ref="char:EOLhyphen"/>fold cord is not eaſily broken,</hi> unleſs it be firſt <hi>untwiſted,</hi> for the do<g ref="char:EOLhyphen"/>ing <hi>whereof he offered his beſt ſervice.</hi> The old <hi>Serpent</hi> accepted it very thankfully, conſiding much in the <hi>Friers</hi> malice and miſche<g ref="char:EOLhyphen"/>vous wit, and the <hi>rather,</hi> becauſe he was one of his own <hi>brood.</hi> But the <hi>red Dragon</hi> out of tender affection to his vaſſals, by reaſon of a cruel Law in England, was much troubled at one thing, how he ſhould ſcape the gallows if he came there. The <hi>Jeſuite</hi> ſmiling at the Divels ſimplicity, and fooliſh pitty; Good Sir (quoth he) take you no care of that;
+<pb n="6" facs="tcp:114421:4"/>For if there were a pure neceſsity of my perſonal ſervice, I can carry two faces under one hood, and yet I have more hoods then one too; I have ſo many tricks to delude all laws that indeed I fear none: I can ſwear, ly, diſſemble, aequivocate, ſwagger, and look demure, I can play faſt, and looſe, Ruffian or Round-head, Puritan or Pro<g ref="char:EOLhyphen"/>teſtant, <hi>Separatiſt, Atheiſt, Independent,</hi> or any thing, and change my ſhape a thouſand times a day. I can uſe the matter ſo, that they which hate me moſt, uſe me beſt, baniſh me the Country by a Pub<g ref="char:EOLhyphen"/>lick Law, and open their very boſoms to me through a private mi<g ref="char:EOLhyphen"/>ſtake. By this means I have a key to every lock, that neither coun<g ref="char:EOLhyphen"/>cels of Princes, nor cloſets of great men, nor preſs, nor pulpit, nor Church, nor conventicle, can ſhut me out of doors. Having ſo many advantages and ſuch opportunities, what end ſo difficult that I can<g ref="char:EOLhyphen"/>not compaſs? Or what miſchief ſo horrid and deſparate that I dare not attempt, having ſo many diſguiſes to eſcape and fly away in? The old Serpent ſtood amazed at the tranſcendent villany of this whorſon, and to ſee himſelf out-done ſo by ſuch a youngſter, was half aſhamed; ſome think jealous and afraid too, leaſt in time he might depoſe him, and uſurp his Kingdom of darkneſs.</p>
+            <p>But Sir, to be ſhort, (quoth the <hi>frier</hi>) you are more afraid then hurt; and I much admire your intelligence fails you ſo much. For <hi>Pride</hi> and <hi>Coveteouſneſs, lying</hi> and <hi>ſlandering</hi> have made ſuch di<g ref="char:EOLhyphen"/>viſions already, that I hope there is no more for us to do, but fall upon the ſpoyl: And one thing puts me almoſt clear out of doubt, that all wil be ours, we have ſuch an Army of friends there, that are very active, and indeed ſtout Champions for you: you have <hi>Anabaptiſts, Browniſts, Seperatiſts, Familiſts, Antinomians, Arminians, Socinians, Arrians, Antiſcriptu<g ref="char:EOLhyphen"/>riſts, Antiſabbatarians, ſoul-ſleepers, ſelf-ſeekers, Adamites, Familiſts, Independents,</hi> and Millions more; but that I am loth to puzzle your memory with ſuch a Catalogue of hard names. That little Country is grown <hi>Affrick</hi> yeilds yearly as many Monſters in Religion, as all that quarter of the world doth in nature.</p>
+            <p>The old Devil with a filthy ſhrug and an ugly look, ſhewed ſome diſcontent for all this, for (quoth he) they are moſt of them ſuchgrand diſſemblers, that I dare not truſt them my ſelf; and their daily rai<g ref="char:EOLhyphen"/>lings on me what ever your opinion is, makes my jealous of them.</p>
+            <p>What the divel ailes you, quoth the <hi>Frier?</hi> cannot you tel when you are wel? if they ſpeak againſt you and do for you; if they put down one ſin, and ſet up three; pul down one Pope, and ſet up
+<pb n="7" facs="tcp:114421:4"/>many thouſands; cannot bear with an idle word, and yet belch out a thouſand horrid Blaſphemies: I think you are never the worſe, if you can be content, you have more friends then ever you did hope for; and thoſe that wil do more for you, then you can in modeſty requeſt, or ever had the confidence to ask of any reaſonable men. For they reject the <hi>Scriptures,</hi> refuſe the <hi>Sacraments,</hi> deface, pro<g ref="char:EOLhyphen"/>phane, and pul down temples, deny the <hi>Church,</hi> ſupplant the <hi>Mi<g ref="char:EOLhyphen"/>niſtry,</hi> damn tithes, though Gods own portion, ſpeak evil of Dig<g ref="char:EOLhyphen"/>nities, and not only deſpiſe, but ovgerthrow all government, and ſo lay all level, and common for all comers. Indeed they deny <hi>Chriſt,</hi> blaſpheme the holy <hi>Trinity,</hi> whereat we all tremble, and even curſe God to his face: and now what could you deviſe to ask more, if you were to be your own chooſer? And now becauſe per<g ref="char:EOLhyphen"/>haps another doubt or fear may trouble you, that ſure ſuch <hi>horrid</hi> things ſhould never find admittance, in any Common-wealth of Chri<g ref="char:EOLhyphen"/>ſtians or civil men; To reſolve you further, I can tel you what pretty engines they have to ſcrew them in. firſt, (though tithes be Gods own portion which all the world knows, he gave to his Miniſters for their labours in the <hi>Church,</hi> and no man can tel when they were taken away again) yet they have damned tithes, and all enforced maintenance (as they call it) as <hi>Antichriſtian,</hi> when as indeed it is the only way to ſet up <hi>Antichriſt</hi> or any thing elſe, what your ſelf can deviſe to poſſeſs the many and giddy-headed people withal to require. And ſo whereas heretofore it was, like Prieſts, like people; now it wil be a great deal worſe, like people, like Prieſt: all makes for you ſtil. And this engine the ſilly people themſelves tug at for a ſmal advantage, though it may prove their e<g ref="char:EOLhyphen"/>ternal ruin; for when the ſhepards that watch over the flock are ſcat<g ref="char:EOLhyphen"/>tered for want of a livelihood, we may worry the flock at our plea<g ref="char:EOLhyphen"/>fure. A ſecond engine, whereby they work in all theſe abomina<g ref="char:EOLhyphen"/>tions, is a Toleration of Religion, and Liberty of Conſcience; for if that be once granted for the eaſe of all their tender Conſciences; then why not for <hi>Papiſts, Jews, Turks,</hi> and <hi>Pagans:</hi> for they may have as tender Conſciences to plead for, as any of the other? And if theſe things be once effected, what prophaneſs, hereſie or villany under heaven wil not eaſily be acted? I might add, how they per<g ref="char:EOLhyphen"/>ſwade the people, 'tis contrary to the freedom of a Goſpel-people, to be fettered with any Laws or Government. And that you may ſee how wel the Lawes of man are like to ſcape, they have begun with the Law of God, and abrogated that already. To be
+<pb n="8" facs="tcp:114421:5"/>brief, Sir; heretofore all the burden of Chriſtendom lay upon my neck, but now theſe good ſouls, have eaſed me of a great deal of labour, and you of a great deal of care: The diſtempers of that Kingdom you ſhal ſee aſcend to the head or chief place, and cauſe a phrenſy of confuſion; The Aflembly make their wil, and the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> by ſpeechleſs for a time; and if it <hi>recovers</hi> not beyond ex<g ref="char:EOLhyphen"/>pectation, <hi>Iron-ſides</hi> ſhal do you ſuch a piece of <hi>ſervice,</hi> ſhal make you a <hi>glorious Prince</hi> again. The Rogue was heard with the gene<g ref="char:EOLhyphen"/>ral applauſe, and good likeing of all the Aſſembly, and ſo the old Devil between hope and fear, adjourned the Aſſembly until their next meeting.</p>
+            <p>We are warned hereby, what a ſweet puddle, our falſe <hi>Apoſtles</hi> ſuck their <hi>principles from:</hi> and what black ends their fair <hi>pretences ſo furiouſly drive at,</hi> that are ſo zealous for <hi>toleration,</hi> and ſo maliciouſly mad againſt all <hi>Church</hi> maintenance and <hi>Government.</hi> They have begun with the <hi>Church,</hi> and the <hi>vermin</hi> lay <hi>ferretting</hi> at the Common wealth too, and wil never leave til they gnaw out the very bowels of it. And <hi>therefore</hi> honeſt Country men, take heed of thoſe that to pleaſe you, and <hi>pleaſure</hi> themſelves, plead ſo hotly againſt Tithes. Many there be that plead for the eaſe of the beaſt til they get into the ſadle themſelves, and then who <hi>ride harder</hi> then they? Take heed of thoſe that plead ſo <hi>hard for toleration;</hi> thoſe almoſt <hi>Chriſtians, half-Turks, ſemi-Jewes;</hi> take heed how you hear them, or what you grant them, for they know not what to ask, or when to make an end: Would their deſires were as harmleſs, as boundleſs; but if ſome ſpeedy courſe be not taken to ſtop <hi>their farther progreſs,</hi> we ſhal have <hi>Mahomet the ſecond ſtart up at laſt,</hi> with <hi>new revelations,</hi> and in ſtead of holy Scrip<g ref="char:EOLhyphen"/>tures already condemned, thruſt upon us another <hi>Alcaron,</hi> patcht up of all the damned <hi>Hereſies ſince the beginning.</hi> When <hi>their out-cries for liberty have ſilenced all your Laws,</hi> then be<g ref="char:EOLhyphen"/>gins your ſlavery, not only of Conſcience, but of body and goods <hi>too; for they can pillage your goods and cut your throats,</hi> and juſti<g ref="char:EOLhyphen"/>fy it when they have done, with ſome new <hi>dream or revelation, as their fathers did in Germany;</hi> and <hi>the practiſe whereof themſelves have juſtified in diverſe expreſſions, that their mad Pamphlets bear the records of. Rub your eyes, be wiſe, and ſee in time whom you truſt.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
